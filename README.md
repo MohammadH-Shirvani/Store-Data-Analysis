@@ -1,7 +1,7 @@
 # Data Analysis Project Based on the OSEMN Framework
 
 ## Project Overview
-This project involves data analysis based on the OSEMN (Obtain, Scrub, Explore, Model, iNterpret) framework. The main goal is to demonstrate the entire data science process from data acquisition to interpretation of results. Also you can use it as a guidesheet for data analysis.
+This project that involves data analysis based on the OSEMN (Obtain, Scrub, Explore, Model, iNterpret) framework. The main goal is to demonstrate the entire data science process from data acquisition to interpretation of results.
 
 ## OSEMN Framework
 The OSEMN framework is a popular methodology in data science which stands for:
